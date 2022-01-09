@@ -4,7 +4,7 @@ date: 2022-01-09
 ---
 
 A few years ago I switched from a local Windows account to signing in with my Microsoft account. 
-The user folder name (C:\Users\<name>) has remained unchanged since then.
+The user folder name (`C:\Users\<name>`) has remained unchanged since then.
 Today I finally decided to change it. Here's how:
 
 
