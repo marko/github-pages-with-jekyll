@@ -1,7 +1,6 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+title: Projects and ponderings
+author: Filip Marko
+description: >
   This is where I post about stuff I do, big and small. Probably mostly coding and config.
 
 theme: minima
