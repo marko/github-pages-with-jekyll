@@ -1,5 +1,5 @@
 ---
-title: Blogging with github pages
+title: "Blogging with github pages"
 date: 2022-01-09
 ---
 
