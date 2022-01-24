@@ -1,5 +1,5 @@
 ---
-title: "Logcat --pid"
+title: "logcat --pid"
 date: 2022-01-21
 ---
 
