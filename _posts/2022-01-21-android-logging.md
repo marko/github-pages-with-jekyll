@@ -1,4 +1,3 @@
-
 ---
 title: "Logcat --pid"
 date: 2022-01-21
